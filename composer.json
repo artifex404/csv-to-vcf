@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jeroendesloovere/vcard": "^1.3",
+        "league/csv": "^8.1"
+    }
+}
