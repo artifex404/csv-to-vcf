@@ -16,8 +16,8 @@ PHP and [Composer](https://getcomposer.org/).
 
 Your CSV file should have the format provided in `sample.csv` file. Otherwise, you will need to edit the column indexes of data in `csv-to-vcf.php` starting on line 34.
 
-To convert your csv file to a vcf file, copy your csv file to the project and name it `contacts.csv` run:
+To convert your CSV file to a VCF file, copy your CSV file to the project and name it `contacts.csv` run:
 
 	$ php csv-to-vcf.php
 	
-Your vcf file `contacts.vcf` will be created.
+Your VCF file `contacts.vcf` will be created.
