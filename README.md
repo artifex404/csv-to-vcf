@@ -8,7 +8,7 @@ PHP and [Composer](https://getcomposer.org/).
 
 # Installation
 
-	$ git clone git@github.com:artifex404/csv-to-vcf.git
+	$ git clone https://github.com/artifex404/csv-to-vcf.git
 	$ cd csv-to-vcf
 	$ composer install
 	
